@@ -1,0 +1,71 @@
+.intro{
+    width: 100%;
+    height: 780px;
+    background-color: #FFF9F4;
+}
+.nav-img{
+    width: 300px;
+    margin-top: 35px;
+    margin-left: 55px;
+
+}
+.nav-text{
+    color: black;
+    margin-left: 30px;
+    padding-top: 18px;
+    
+}
+.first-img{
+    margin-left: 140px;
+    margin-top: 40px;
+
+}
+.first-text{
+    padding: 160px;
+    
+}
+.similar-color{
+    color: #FA804C;
+}
+h1{
+    font-size:xx-large;
+    font-weight: bolder;
+}
+#shoes{
+     width:85%;
+     height: 800px;
+    
+     padding-left: 150px;
+     border-radius: 50px;
+     
+}
+.shoe-card-footer{
+    background-color: white;
+    border: 0;
+}
+.similar-color2{
+    background-color: #3B4DE9 ;
+    color: white;
+    border-radius: 15px;
+}
+.price{
+    font-size: 40px;
+    font-weight: bold;
+    margin-right: 50px;
+    margin-top: 15px;
+    
+}
+.shoe-card{
+  border-radius: 20px;
+  margin: 10px;
+  height: 600px;
+}
+.footer button{
+   float: right;
+   padding-bottom: 20px;
+}
+.formal-shoe-section{
+    width: 75%;
+    height: 800px;
+    margin-left: 150px;
+}
